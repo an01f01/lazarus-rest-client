@@ -1,0 +1,64 @@
+object Form1: TForm1
+  Left = 236
+  Height = 471
+  Top = 117
+  Width = 514
+  Caption = 'Form1'
+  ClientHeight = 471
+  ClientWidth = 514
+  OnCreate = FormCreate
+  LCLVersion = '2.2.0.4'
+  object Edit1: TEdit
+    Left = 8
+    Height = 22
+    Top = 8
+    Width = 337
+    Anchors = [akTop, akLeft, akRight]
+    TabOrder = 0
+    Text = 'http://localhost:8000/'
+  end
+  object Button1: TButton
+    Left = 352
+    Height = 25
+    Top = 8
+    Width = 72
+    Anchors = [akTop, akRight]
+    Caption = 'POST'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Memo1: TMemo
+    Left = 8
+    Height = 200
+    Top = 48
+    Width = 497
+    Anchors = [akTop, akLeft, akRight]
+    Lines.Strings = (
+      'Memo1'
+    )
+    ScrollBars = ssVertical
+    TabOrder = 2
+  end
+  object Memo2: TMemo
+    Left = 8
+    Height = 210
+    Top = 256
+    Width = 497
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    Lines.Strings = (
+      'Memo2'
+    )
+    ScrollBars = ssVertical
+    TabOrder = 3
+  end
+  object Button2: TButton
+    Left = 430
+    Height = 25
+    Top = 8
+    Width = 75
+    Anchors = [akTop, akRight]
+    Caption = 'GET'
+    OnClick = Button2Click
+    TabOrder = 4
+  end
+end

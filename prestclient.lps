@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="prestclient.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="365"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rclient.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="73"/>
+        <CursorPos X="12" Y="96"/>
+        <UsageCount Value="365"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../lazarus/restclient/rclient.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="13"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="57" Column="20" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="58" Column="22" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="56" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="55" Column="15" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="58" Column="19" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="57" Column="3" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="58" Column="52" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="59" Column="53" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="64" Column="3" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="63" Column="3" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="21" Column="64" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="39" Column="32" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="36" Column="28" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="37" Column="26" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="41" Column="5" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="85" Column="68" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="86" Column="28" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="71" Column="36" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="70" Column="36" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="69" Column="36" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="92" Column="43" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="97" Column="18" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="93" Column="31" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="103" Column="58" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="105" Column="58" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="128" Column="50" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="126" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="77" Column="105" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="133" Column="13" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="rclient.pas"/>
+        <Caret Line="90" Column="27" TopLine="55"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
